@@ -1,6 +1,6 @@
 
   <h1> WELCOME TO MY PROFILE</h1>
-  <h2>I'M DEVELOPER SINCE 3 YEARS</h2>
+  <h2>I'M DEVELOPER</h2>
 
 <!--
 **surlit/surlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
