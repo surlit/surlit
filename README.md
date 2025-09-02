@@ -1,7 +1,12 @@
 
-  <h1> WELCOME TO MY PROFILE</h1>
+  <h1>WELCOME TO MY PROFILE</h1>
   <h2>I'M DEVELOPER</h2>
-
+  <h3>Skills:</h3>
+  <ol>
+    <li>Odoo</li>
+    <li>Next</li>
+    <li>Django</li>
+  </ol>
 <!--
 **surlit/surlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
