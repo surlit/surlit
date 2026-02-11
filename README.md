@@ -52,7 +52,8 @@
   <h3>Projects</h3>
   <ol>
     <li> <a href="https://github.com/surlit/work_enviroment">Automatizacion del entorno de trabajo<a></li>
-    
+    <li><<a href="https://github.com/surlit/thecnical_module_binaural">Tecnica binaural</a></li>
+    <li><<a href="https://github.com/surlit/crud_django_react">Crud Django React</a></li>
   </ol>
 </ol>
 <!--
