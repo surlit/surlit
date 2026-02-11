@@ -50,6 +50,10 @@
   </ol>
 <ol>
   <h3>Projects</h3>
+  <ol>
+    <li href="https://github.com/surlit/work_enviroment">Automatizacion del entorno de trabajo</li>
+    
+  </ol>
 </ol>
 <!--
 **surlit/surlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
