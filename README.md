@@ -51,7 +51,7 @@
 <ol>
   <h3>Projects</h3>
   <ol>
-    <li href="https://github.com/surlit/work_enviroment">Automatizacion del entorno de trabajo</li>
+    <li> <a href="https://github.com/surlit/work_enviroment">Automatizacion del entorno de trabajo<a></li>
     
   </ol>
 </ol>
